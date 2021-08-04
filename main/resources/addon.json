@@ -1,0 +1,10 @@
+{
+    "uuid": "%uuid%",
+    "name": "AutoGG",
+    "mainClass": "de.AutoGG.deriton.AutoGGAddon",
+    "description": "Says automatically after Minigame rounds GG (works only on GommeHD.net & Hypixel.net)",
+    "version": 2,
+    "author": "Deriton",
+    "category": 2,
+    "icon": "https://s12.directupload.net/images/200916/temp/qgsosdhh.png"
+}
